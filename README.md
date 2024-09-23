@@ -30,5 +30,5 @@ The application uses **PostgreSQL** for reliable transaction management and data
 3. **Implementation**: Develop the database and user interface, followed by system functionality.
 4. **Testing**: Conduct unit and functional testing to ensure correct system behavior.
    
-Check out more details about the project in [this PDF document(https://github.com/oanamariasilivastru/Work-Manager-Project/blob/master/Proiect_ISS%20(1).pdf).
+Check out more details about the project in [this PDF document](https://github.com/oanamariasilivastru/Work-Manager-Project/blob/master/Proiect_ISS%20(1).pdf).
 
