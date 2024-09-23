@@ -29,6 +29,6 @@ The application uses **PostgreSQL** for reliable transaction management and data
 2. **Design**: Create UML diagrams (use cases, sequence, activity, class diagrams) to organize the application architecture.
 3. **Implementation**: Develop the database and user interface, followed by system functionality.
 4. **Testing**: Conduct unit and functional testing to ensure correct system behavior.
+   
+Check out more details about the project in [this PDF document(https://github.com/oanamariasilivastru/Work-Manager-Project/blob/master/Proiect_ISS%20(1).pdf).
 
-## Conclusion:
-The application provides an efficient system for employee monitoring and task management. The Admin can easily manage tasks and employees, while employees can view their tasks and notify the Admin about their progress.
